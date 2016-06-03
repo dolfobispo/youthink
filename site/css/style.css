@@ -1,0 +1,27 @@
+/*----CSS DOCUMENT----*/
+
+
+
+/*------HEADER------*/
+
+#logo { 
+	
+	width: 150px; 
+	height: auto; background: url(../images/logo.png) no-repeat left center;  
+	padding: 22px 0;
+	text-indent: -99999px;
+	
+}
+
+#logo a{ 
+
+	text-decoration: none;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 4px;  }
+
+#main-navbar {
+
+	background: #09406C; 
+}
