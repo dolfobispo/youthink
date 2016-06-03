@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-TesteX
-=======
 TesteS
->>>>>>> origin/master
+
